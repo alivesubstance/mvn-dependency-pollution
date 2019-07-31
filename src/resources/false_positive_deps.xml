@@ -1,0 +1,56 @@
+<exclusion>
+    <groupId>javax.validation</groupId>
+    <artifactId>validation-api</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-security</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>javax.servlet</groupId>
+    <artifactId>javax.servlet-api</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-log4j2</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-lang3</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>org.springframework.security</groupId>
+    <artifactId>spring-security-web</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>commons-codec</groupId>
+    <artifactId>commons-codec</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-undertow</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-collections4</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>com.pleeco.core</groupId>
+    <artifactId>pleeco-core-commons-cassandra</artifactId>
+</exclusion>
+<exclusion>
+    <groupId>org.apache.logging.log4j</groupId>
+    <artifactId>log4j-jul</artifactId>
+</exclusion>
+<exclusion>
+<groupId>org.jboss.xnio</groupId>
+<artifactId>xnio-nio</artifactId>
+</exclusion>
+<exclusion>
+<groupId>org.jboss.xnio</groupId>
+<artifactId>xnio-api</artifactId>
+</exclusion>
+<exclusion>
+<groupId>com.auth0</groupId>
+<artifactId>java-jwt</artifactId>
+</exclusion>
